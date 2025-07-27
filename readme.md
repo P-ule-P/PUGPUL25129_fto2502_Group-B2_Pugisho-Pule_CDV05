@@ -21,8 +21,14 @@ This is my personal developer portfolio website. It showcases my projects, skill
 
 ## How to View
 
+#### Locally
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/P-ule-P/PUGPUL25129_fto2502_Group-B2_Pugisho-Pule_CDV05
    ```
 2. Open the index.html file in your browser.
+
+#### Website
+
+3. Visit: https://pugishoprojects.vercel.app
